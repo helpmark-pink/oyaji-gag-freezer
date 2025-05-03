@@ -1,0 +1,24 @@
+{
+  "name": "dad-joke-freezer",
+  "version": "1.0.0",
+  "description": "クソ寒いオヤジギャグ（Dad Jokes）を表示し、その寒さに応じて画面を凍らせるWebアプリケーション",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": ["dad jokes", "humor", "nextjs", "react", "snowfall"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-snowfall": "^1.2.1",
+    "tailwindcss": "^3.3.3",
+    "postcss": "^8.4.29",
+    "autoprefixer": "^10.4.15"
+  }
+}

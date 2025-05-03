@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+.cold-bg-1 {
+  background-color: rgba(224, 242, 254, 0.9);
+  transition: background-color 1s ease;
+}
+
+.cold-bg-2 {
+  background-color: rgba(186, 230, 253, 0.9);
+  transition: background-color 1s ease;
+}
+
+.cold-bg-3 {
+  background-color: rgba(125, 211, 252, 0.9);
+  transition: background-color 1s ease;
+} 
