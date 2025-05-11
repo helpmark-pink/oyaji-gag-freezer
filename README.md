@@ -1,6 +1,7 @@
 # オヤジギャグ冷凍庫
 
-oyaji-gag-freezer.vercel.app
+https://oyaji-gag-freezer.vercel.app/
+
 
 
 クソ寒いオヤジギャグで画面を凍らせよう！
